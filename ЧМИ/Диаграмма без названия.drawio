@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T22:08:45.371Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.148 YaBrowser/22.7.2.899 Yowser/2.5 Safari/537.36" etag="kBLR16tQ-K3cAzIf_2w2" version="21.3.3" type="github" pages="2">
-  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+<mxfile host="app.diagrams.net" modified="2023-05-24T22:09:55.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.148 YaBrowser/22.7.2.899 Yowser/2.5 Safari/537.36" etag="V7TLc1THru6dg9KOg_OG" version="21.3.3" type="github" pages="2">
+  <diagram name="UMLsite" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1050" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -187,7 +187,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="WOX6E8N1_5gu4rGMsL1o" name="Страница 2">
+  <diagram id="WOX6E8N1_5gu4rGMsL1o" name="UMLgame">
     <mxGraphModel dx="1050" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
